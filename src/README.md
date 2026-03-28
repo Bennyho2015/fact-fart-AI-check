@@ -1,1 +1,1 @@
-Elder AI OCR Frontend - 簡易示範
+Elder AI OCR Frontend - 簡易示範报告
