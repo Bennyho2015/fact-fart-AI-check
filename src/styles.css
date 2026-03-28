@@ -1,0 +1,6 @@
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans CJK TC', Helvetica, Arial; padding: 16px; }
+.container { max-width: 720px; margin: 0 auto; }
+.big-btn { font-size: 20px; padding: 14px 20px; margin: 12px 0; width: 100%; }
+.status { margin: 12px 0; font-weight: bold; }
+.result-card { padding: 12px; border-radius: 8px; margin-top: 12px; }
+details summary { cursor: pointer; font-weight: bold; }
